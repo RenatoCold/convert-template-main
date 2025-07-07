@@ -31,5 +31,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## Resultado 📷
 
 <div align="center">
-    <img src="./img/image.png" height="360" width="670" />
+    <img src="./img/image.png" height="600" width="670" />
 </div>
